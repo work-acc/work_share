@@ -1,0 +1,7 @@
+<HTML>
+
+<HEAD>
+    <TITLE>Задание 6</TITLE>
+    <script type="text/javascript">
+        function printHello() {
+            one = +prompt("Ввод первого числа");
