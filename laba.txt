@@ -5,3 +5,10 @@
     <script type="text/javascript">
         function printHello() {
             one = +prompt("Ввод первого числа");
+            two = +prompt("Ввод второго числа");
+            three = one + two;
+            alert(`Получился ответ: ${three}`);
+        }
+    </script>
+
+</HEAD>
