@@ -12,3 +12,13 @@
     </script>
 
 </HEAD>
+
+
+<BODY>
+
+    <a href="" onclick="printHello()">
+        <input type="button" value="Сумма чисел">
+    </a>
+</BODY>
+
+</HTML>
