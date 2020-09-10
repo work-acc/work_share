@@ -1,0 +1,23 @@
+<HTML>
+
+<HEAD>
+    <TITLE>Задание 6</TITLE>
+    <script type="text/javascript">
+        function printHello() {
+            one = +prompt("Ввод первого числа");
+            two = +prompt("Ввод второго числа");
+            three = one + two;
+            alert(`Получился ответ: ${three}`);
+        }
+    </script>
+
+</HEAD>
+
+<BODY>
+
+    <a href="" onclick="printHello()">
+        <input type="button" value="Сумма чисел">
+    </a>
+</BODY>
+
+</HTML>
